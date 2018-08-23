@@ -1,0 +1,21 @@
+[33mcommit a739c3f3382b66f0ef9b3505853b7c39e2bb1aa3[m[33m ([m[1;36mHEAD -> [m[1;32madd_janken_display[m[33m)[m
+Author: kouki sugiyama <sugiyakou@gmail.com>
+Date:   Thu Aug 23 14:39:56 2018 +0900
+
+    JankenView.java  GUIの実装
+    
+    グー・チョキ・パーボタン、勝敗表示用ラベル、及びコメントエリアを作成するメソッドmyLayoutを作成した。
+
+[33mcommit e420575bdb66803c1d2eddbe8d131030dfcc919d[m
+Author: kouki sugiyama <sugiyakou@gmail.com>
+Date:   Thu Aug 23 14:33:30 2018 +0900
+
+     JankenView.java  GUIの実装
+    
+    グー・チョキ・パーボタン、勝敗表示用ラベル、及びコメントエリアを作成するメソッドmyLayoutを作成した。
+
+[33mcommit 10e512ae40ff2f71a6eaba40b017d8ad4b1d2c48[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/add_janken_display[m[33m, [m[1;32mmaster[m[33m)[m
+Author: kouki sugiyama <sugiyakou@gmail.com>
+Date:   Thu Aug 23 14:01:54 2018 +0900
+
+    first commit
